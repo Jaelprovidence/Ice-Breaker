@@ -1,0 +1,24 @@
+// Write your code below
+isPalindrom("b")
+// returns true
+
+isPalindrom("civic")
+// returns true
+
+isPalindrom("jael")
+// returns false
+
+isPalindrom("hello")
+// returns false
+
+isPalindrom("backward")
+// returns false
+
+isPalindrom("madam")
+// returns true
+
+isPalindrom("dog")
+// returns false
+
+isPalindrom("toyota")
+// returns false
